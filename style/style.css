@@ -1,0 +1,278 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* navbar started */
+.logo{
+    width: 165px;
+}
+.nav-text{
+    font-size: 15px;
+    font-weight: 300;
+    padding-left: 15px;
+}
+.franchise{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+.order-btn{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+.arrow-icon{
+    color: #ed1c24;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+/* navbar ended */
+
+/* container started */
+.container-img{
+    width: 100%;
+}
+/* container ended */
+
+.bgwhite img {
+     background-color: aliceblue;
+
+}
+
+
+.textclass{
+    display: block;
+    text-align: center;
+    padding: 30px;
+    font-size: large;
+}
+.imgdiv{
+
+
+justify-content: center;
+
+}
+.order-now{
+    background-color: #0f0607;
+    color: #ffffff;
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 25px;
+    border-color: #f0f8ff;
+}
+.order-nowvillage{
+    background-color: #0cfc2c;
+    color: #ffffff;
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 25px;
+    border-color: #f0f8ff;
+}
+.buttondiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.Islamabaddiv{
+
+
+display: flex;
+justify-content: space-evenly;
+
+font-size: large;
+    margin-top: 50px;
+}
+.Islamabadtex{
+padding-right: 50px;
+padding-left: -10px;
+
+}
+.Islamabadtex h4{ 
+    color: #c5070d;
+    letter-spacing: 4px;
+}
+.expfranctxt {
+    display: flex;
+    justify-content: center;
+    
+}
+.Islamabadimg{
+
+   padding-left: 40px;
+}
+.loctiondiv{
+    background-color: #0f0f0f;
+}
+
+.imgsize{
+    width: 210px;
+    height: 150px;
+   
+
+}
+.GUJRANWALAimg {
+    display: flex;
+    justify-content: center;
+}
+.sectiondiv h3 {
+    color: #c5070d;
+    letter-spacing: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sectiondiv {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-right: 13px;
+    width: 350px;
+}
+.sectiondiv p {
+    margin-bottom: 6px;
+    font-size: 18px;
+   
+}
+.sectiondiv h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.sectionmain {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
+}
+.secdsd {
+    background-image: url("https://images-beta.tossdown.com/site/379a4928-376b-4f23-9277-262b4ad50d44.webp");
+    background-repeat: no-repeat; 
+    background-position: right;
+}
+.franchiseone{
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+.franchiseone h2, h1{
+    font-family: 'futurak';
+    font-size: 50px;
+}
+.sectiontwo{
+    background-color: #0f0f0f;
+}
+.village h2,h1{
+font-size: 50px;
+text-align: center;
+}
+.village {
+    background-color: #0f0f0f;
+   
+}
+.Islamabaddiv13{
+
+
+   display: flex;
+    
+    font-size: large;
+        margin-top: 50px;
+    }
+    .Islamabadimg12 {
+        margin-right: 50px;
+    }
+    .Openingsoon{
+        
+        background-color: #ffffff;
+        width: 160px;
+        color: #0f0607;
+        border-radius: 8px;
+    }
+    .Openingsoonpara {
+        color: hsl(358, 85%, 13%);
+    letter-spacing: 5px;
+    }
+
+    .openpara {
+    font-size: 25px;
+    }
+    .Openingsoon{
+        margin-left: 30px;
+        width: 350px;
+       text-align: center; 
+       margin-bottom: 15px;
+       margin-top: 15px;
+    }
+
+    .Openingsoonimg {
+        display: flex;
+        justify-content: center;
+    }
+    .allopeningsoon{
+        display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    }
+    .openingh1{
+        font-size: 30px;
+    }
+    .openingh2{
+        font-size: 2px;
+
+    }
+    .poeningspan{
+        font-weight: 300;
+    }
+    .openingp{
+        font: size 15px; ;
+        font-weight: 350;
+    }
+    .socialfe{
+        background-color: #0f0607;
+        color: #ffffff;
+        text-align: center;
+        font-size: 20px;
+    }
+    .socialimg{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .footerdiv{
+        width: 300px;
+        margin-top: 80px;
+        margin-bottom: 70px;
+
+    }
+    .footerdiv1{
+        width: 150px;
+        margin-top: 80px;
+        margin-bottom: 70px;
+
+    }
+    .footer {
+        display: flex;
+        background-color: #0f0f0f;
+        background-image: url("https://images-beta.tossdown.com/site/a4195117-d4ae-45d4-9088-21162bacdfb1.webp");
+        background-repeat: no-repeat;
+justify-content: space-evenly;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    }
+    .footerdiv1 h4 {
+margin-bottom: 15px;
+font-weight: 300;
+    }
